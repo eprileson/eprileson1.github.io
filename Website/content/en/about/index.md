@@ -1,9 +1,0 @@
----
-title: "About"
-description: "Hi, I'm Eric - I'm a researcher, educator, and writer driven to learn about how species and ecosystems respond to human impacts and how people's actions can build resilient communities. I am excited to work with anyone interested in climate research, science communication, tools and designs for education. Many things spark my interest, so please contact me if you would like to collaborate!"
-featured_image: 'C:\Users\prile\Documents\Website\eprileson1.github.io\images\enchants.jpg'
-menu:
-  main:
-    weight: 1
----
-
